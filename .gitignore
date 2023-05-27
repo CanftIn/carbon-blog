@@ -128,3 +128,15 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+
+.cache
+.xmake
+.DS_Store
+.vscode
+build
+compile_commands.json
+fuck
+build_cmake
+core.[0-9]*
+dump
