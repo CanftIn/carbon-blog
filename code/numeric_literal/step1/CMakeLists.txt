@@ -1,8 +1,10 @@
 cmake_minimum_required(VERSION 3.20)
 project(
-  numeric_literal
+  cocktail
   LANGUAGES C CXX
 )
+
+message(STATUS "Project: '${PROJECT_NAME}'")
 
 set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
@@ -21,6 +23,8 @@ include_directories(include)
 
 # Create the cocktail C++ library
 set(SRCS)
+
+set(STATIC_LIB_NAME ${PROJECT_NAME})
 
 # apt install llvm-15-dev
 set(LLVM_DIR /usr/lib/llvm-15/lib/cmake/llvm)
