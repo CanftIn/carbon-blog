@@ -1,2 +1,5 @@
 # carbon-blog
-attempt to be a fully tutorial of Carbon language.
+
+本项目旨在作为Carbon语言中文版本的编译器实现及语言设计方面的指引。
+
+**内容补充中。**
