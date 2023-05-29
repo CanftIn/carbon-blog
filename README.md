@@ -36,6 +36,8 @@
   - [ ] [section3: interpreter](/blog/chapter11/experimental/section3_interpreter.md)
 - [ ] [Chapter12: LLVM基础](/blog/chapter12/llvm/LLVM基础.md)
   - [ ] [section1: LLVM ADT介绍及使用](/blog/chapter12/llvm/section1_LLVM_ADT介绍及使用.md)
+    - [ ] [section1.1_LLVM_ADT_APInt介绍](/blog/chapter12/llvm/section1.1_LLVM_ADT_APInt介绍.md)
+    - [ ] [section1.2_LLVM_ADT_StringRef介绍](/blog/chapter12/llvm/section1.2_LLVM_ADT_StringRef介绍.md)
   - [ ] [section2: LLVM Support介绍及使用](/blog/chapter12/llvm/section2_LLVM_Support介绍及使用.md)
 
 # License
