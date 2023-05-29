@@ -10,7 +10,7 @@
 **内容补充中，目录如下：**
 
 - [X] [Chapter0: 项目介绍及构建](/blog/chapter0/project_structure/项目介绍及构建.md)
-- [ ] [Chapter1: 数值字面量](/blog/chapter1/numeric_literal/数值字面量.md)
+- [X] [Chapter1: 数值字面量](/blog/chapter1/numeric_literal/数值字面量.md)
   - [ ] [section1: 数值字面量词法分析](/blog/chapter1/numeric_literal/section1_数值字面量词法分析.md)
   - [ ] [section2: 数值字面量语法解析](/blog/chapter1/numeric_literal/section2_数值字面量语法解析.md)
 - [ ] [Chapter2: 诊断信息](/blog/chapter2/diagnostic/诊断信息.md)
