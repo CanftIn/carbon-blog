@@ -18,6 +18,10 @@ class NumericLiteralToken {
 
   class Parser;
 
+  auto GetRadixPoint() -> int { return radix_point; }
+
+  auto GetExponent() -> int { return exponent; }
+
  private:
   NumericLiteralToken() {}
 
