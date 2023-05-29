@@ -10,7 +10,7 @@
 **内容补充中：**
 
 - [X] [Chapter0: 项目介绍及构建](/blog/chapter0/project_structure/项目介绍及构建.md)
-- [ ] [Chapter1: 数值字面量解析](/blog/chapter1/numeric_literal/数值字面量解析.md)
+- [ ] [Chapter1: 数值字面量](/blog/chapter1/numeric_literal/数值字面量.md)
   - [ ] [step1: 数值字面量词法分析](/blog/chapter1/numeric_literal/step1_数值字面量词法分析.md)
   - [ ] [step2: 数值字面量语法解析](/blog/chapter1/numeric_literal/step2_数值字面量语法解析.md)
 - [ ] [Chapter2: 诊断信息](/blog/chapter2/diagnostic/诊断信息.md)
@@ -40,4 +40,4 @@
 
 # License
 
-本文所有文章受[a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/)协议所保护。
+本文所有文章受[Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/)协议所保护。
