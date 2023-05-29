@@ -9,7 +9,7 @@
 
 **内容补充中：**
 
-- [ ] [Chapter0: 项目结构及依赖](/blog/chapter0/project_structure/项目结构及依赖.md)
+- [X] [Chapter0: 项目介绍及构建](/blog/chapter0/project_structure/项目介绍及构建.md)
 - [ ] [Chapter1: 数值字面量解析](/blog/chapter1/numeric_literal/数值字面量解析.md)
   - [ ] [step1: 数值字面量词法分析](/blog/chapter1/numeric_literal/step1_数值字面量词法分析.md)
   - [ ] [step2: 数值字面量语法解析](/blog/chapter1/numeric_literal/step2_数值字面量语法解析.md)
