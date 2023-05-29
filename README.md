@@ -1,13 +1,13 @@
 # carbon-blog
 
-本项目旨在作为[Carbon](https://github.com/carbon-language/carbon-lang)语言的编译器实现和语言设计方面的指引。
+本项目基于[Carbon](https://github.com/carbon-language/carbon-lang)语言，旨在成体系并逐步打造一个更加现代的编译器实现的中文指引。同时涵盖编程语言设计方面内容。
 
-计划内容涵盖：
+计划内容包括：
 
 - 如何一步一步实现现代编译器的前端（参照Carbon，目前我复刻的一个完整项目实现可参考：[Cocktail-lang](https://github.com/CanftIn/cocktail-lang)）
 - 设计一门语言的思想（可能涉及诸如Rust/Swift/Haskell/Lisp等编程语言）
 
-**内容补充中：**
+**内容补充中，目录如下：**
 
 - [X] [Chapter0: 项目介绍及构建](/blog/chapter0/project_structure/项目介绍及构建.md)
 - [ ] [Chapter1: 数值字面量](/blog/chapter1/numeric_literal/数值字面量.md)
@@ -42,4 +42,4 @@
 
 # License
 
-本文所有文章受[Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/)协议所保护。
+版权所有，仓库内所有文章受[Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/)协议所保护，转载请提issue。
