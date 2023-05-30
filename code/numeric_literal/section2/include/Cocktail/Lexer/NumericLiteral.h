@@ -60,9 +60,6 @@ class NumericLiteralToken::Parser {
 
   // True if we found a `-` before `exponent_part`.
   bool exponent_is_negative = false;
-
-  // True if we produced an error but recovered.
-  bool recovered_from_error = false;
 };
 
 }  // namespace Cocktail
