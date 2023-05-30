@@ -11,8 +11,8 @@
 
 - [X] [Chapter0: 项目介绍及构建](/blog/chapter0/project_structure/项目介绍及构建.md)
 - [X] [Chapter1: 数值字面量](/blog/chapter1/numeric_literal/数值字面量.md)
-  - [ ] [section1: 数值字面量词法分析](/blog/chapter1/numeric_literal/section1_数值字面量词法分析.md)
-  - [ ] [section2: 数值字面量语法解析](/blog/chapter1/numeric_literal/section2_数值字面量语法解析.md)
+  - [X] [section1: 数值字面量词法分析]
+  - [X] [section2: 数值字面量语法解析]
 - [ ] [Chapter2: 诊断信息](/blog/chapter2/diagnostic/诊断信息.md)
   - [ ] [section1: 数值字面量接入诊断信息](/blog/chapter2/diagnostic/section1_数值字面量接入诊断信息.md)
 - [ ] [Chapter3: 源码缓存](/blog/chapter3/source_buffer/源码缓存.md)
@@ -38,7 +38,7 @@
   - [ ] [section1: LLVM ADT介绍及使用](/blog/chapter12/llvm/section1_LLVM_ADT介绍及使用.md)
     - [ ] [section1.1_LLVM_ADT_APInt介绍](/blog/chapter12/llvm/section1.1_LLVM_ADT_APInt介绍.md)
     - [ ] [section1.2_LLVM_ADT_StringRef介绍](/blog/chapter12/llvm/section1.2_LLVM_ADT_StringRef介绍.md)
-    - [ ] [section1.3: LLVM ADT Optional介绍及使用](/blog/chapter12/llvm/section1.3_LLVM_ADT_Optional介绍及使用.md)
+    - [X] [section1.3: LLVM ADT Optional介绍及使用](/blog/chapter12/llvm/section1.3_LLVM_ADT_Optional介绍及使用.md)
   - [ ] [section2: LLVM Support介绍及使用](/blog/chapter12/llvm/section2_LLVM_Support介绍及使用.md)
 
 # License
